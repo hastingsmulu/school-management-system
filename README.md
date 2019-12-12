@@ -1,0 +1,23 @@
+# school-management-system
+School management system project
+>> LOGIN DETAILS <<
+
+Username: hastingsmumo
+Password: 4T190Alpha@#23
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "school_db" AND IMPORT THE SQL FILE TO RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+DATABASE FILE IS INSIDE "database" FOLDER
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+
+
+
+
