@@ -6,15 +6,15 @@ Username: hastingsmumo
 Password: 4T190Alpha@#23
 
 
-DON'T FORGET TO CREATE A DATABASE NAMING "school_db" AND IMPORT THE SQL FILE TO RUN.
-WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+Don't forget to create a database naming "school_db" and import the sql file to run.
+without the database the project won't run.
 
-DATABASE FILE IS INSIDE "database" FOLDER
+database file id inside "db" folder
 
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+***** If you find any errors or any problem related this webapp, feel free to contact me *****  
 
 
-***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+***** Leave a comment if you loved my work *****
 
 
 
