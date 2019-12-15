@@ -20,7 +20,7 @@ Username: hastingsmumo
 Password: 4T190Alpha@#23
 
 
-Don't forget to create a database naming "school_db" and "workdata", import the sql files to run.
+Don't forget to create a database naming "school_db" and "workdata" (import the users sql file to workdata database), import the sql files to run.
 without the database the project won't run.
 
 database file id inside "db" folder
