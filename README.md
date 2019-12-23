@@ -30,6 +30,9 @@ database file id inside "db" folder
 
 ***** Leave a comment if you loved my work *****
 
+Facebook @mumomulu
+Instagram @eastin_nm
+WhatsApp +254790714621
 
 
 
